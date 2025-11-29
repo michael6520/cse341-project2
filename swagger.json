@@ -5,12 +5,9 @@
     "description": "Library Api",
     "version": "1.0.0"
   },
-  "host": "localhost:3000",
+  "host": "cse341-project2-dn62.onrender.com",
   "basePath": "/",
-  "schemes": [
-    "http",
-    "https"
-  ],
+  "schemes": ["https"],
   "paths": {
     "/login": {
       "get": {
